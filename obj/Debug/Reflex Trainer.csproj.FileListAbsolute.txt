@@ -1,0 +1,20 @@
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\bin\Debug\Reflex Trainer.exe.config
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\bin\Debug\Reflex Trainer.exe
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\bin\Debug\Reflex Trainer.pdb
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.csprojAssemblyReference.cache
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex_Trainer.forma.resources
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex_Trainer.Properties.Resources.resources
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.csproj.GenerateResource.cache
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.csproj.CoreCompileInputs.cache
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.exe
+D:\Daniel\Projekty Programów i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.pdb
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\bin\Debug\Reflex Trainer.exe.config
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\bin\Debug\Reflex Trainer.exe
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\bin\Debug\Reflex Trainer.pdb
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.csprojAssemblyReference.cache
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex_Trainer.forma.resources
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex_Trainer.Properties.Resources.resources
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.csproj.GenerateResource.cache
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.csproj.CoreCompileInputs.cache
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.exe
+D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.pdb
