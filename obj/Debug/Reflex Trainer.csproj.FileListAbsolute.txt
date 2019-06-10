@@ -18,3 +18,13 @@ D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Tr
 D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.csproj.CoreCompileInputs.cache
 D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.exe
 D:\Daniel\Projekty Programow i Stron\Strayker\Reflex Trainer\obj\Debug\Reflex Trainer.pdb
+A:\Repozytoria\reflex_trainer\bin\Debug\Reflex Trainer.exe.config
+A:\Repozytoria\reflex_trainer\bin\Debug\Reflex Trainer.exe
+A:\Repozytoria\reflex_trainer\bin\Debug\Reflex Trainer.pdb
+A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.csprojAssemblyReference.cache
+A:\Repozytoria\reflex_trainer\obj\Debug\Reflex_Trainer.forma.resources
+A:\Repozytoria\reflex_trainer\obj\Debug\Reflex_Trainer.Properties.Resources.resources
+A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.csproj.GenerateResource.cache
+A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.csproj.CoreCompileInputs.cache
+A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.exe
+A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.pdb
