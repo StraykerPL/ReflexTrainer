@@ -1,5 +1,5 @@
 ﻿/*
-	Copyright (c) 2018-2019 Daniel Strayker Nowak
+	Copyright (c) 2018-2020 Daniel Strayker Nowak
 	All rights reserved
 */
 
