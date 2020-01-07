@@ -28,3 +28,12 @@ A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.csproj.GenerateResource.c
 A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.csproj.CoreCompileInputs.cache
 A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.exe
 A:\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.pdb
+H:\Daniel\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.csprojAssemblyReference.cache
+H:\Daniel\Repozytoria\reflex_trainer\obj\Debug\Reflex_Trainer.forma.resources
+H:\Daniel\Repozytoria\reflex_trainer\obj\Debug\Reflex_Trainer.Properties.Resources.resources
+H:\Daniel\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.csproj.GenerateResource.cache
+H:\Daniel\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.exe
+H:\Daniel\Repozytoria\reflex_trainer\obj\Debug\Reflex Trainer.pdb
+H:\Daniel\Repozytoria\reflex_trainer\bin\Debug\Reflex Trainer.exe.config
+H:\Daniel\Repozytoria\reflex_trainer\bin\Debug\Reflex Trainer.exe
+H:\Daniel\Repozytoria\reflex_trainer\bin\Debug\Reflex Trainer.pdb
