@@ -8,7 +8,6 @@ To build app, you have to open it with MS Visual Studio. Project was written on 
 
 # TODO
 
-- [ ] 
 - [ ] Add English language,
 - [ ] Improve interface,
 
