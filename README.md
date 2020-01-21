@@ -4,16 +4,16 @@ Simple C# app to train point reflex!
 
 # Building
 
-To build app, you have to open it with MS Visual Studio. Project was written on .NET Framework v4.6.1, so you will need it to build app properly. You can use MonoDevelop or something similar to build app, but I didn't test it. Feel free to make research!
+To build app, you have to open it with MS Visual Studio. Project was written on .NET Framework v4.7.2, so you will need it to build app properly. You can use MonoDevelop or something similar to build app, but I didn't test it. Feel free to make research!
 
 # TODO
 
 - [ ] Add English language,
-- [ ] Improve interface,
+- [x] Improve interface,
 
 # Using
 
-- Download .exe file from repository at "bin/Release" directory. And just run the app!
+- Download .exe file from repository at "bin" directory. And just run the app!
 - If you want to add app to another program, feel free to change project build setting from Windows Forms App to Windows Class Library, and try building it. Just remember, that I don't prepared project to this operation, so you will have to recode some functions or find another way to use app.
 
 # Contributing

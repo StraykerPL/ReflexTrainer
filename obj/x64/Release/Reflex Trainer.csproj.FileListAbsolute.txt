@@ -1,0 +1,7 @@
+H:\Daniel\Repozytoria\reflex_trainer\bin\x64\Release\Reflex Trainer.exe.config
+H:\Daniel\Repozytoria\reflex_trainer\bin\x64\Release\Reflex Trainer.exe
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex_Trainer.Form.resources
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex_Trainer.AboutAppWindow.resources
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex_Trainer.Properties.Resources.resources
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex Trainer.csproj.GenerateResource.cache
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex Trainer.exe

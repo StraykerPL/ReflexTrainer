@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.Resources;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -22,6 +23,7 @@ using System.Runtime.InteropServices;
 
 // Następujący identyfikator GUID jest identyfikatorem biblioteki typów w przypadku udostępnienia tego projektu w modelu COM
 [assembly: Guid("3c776d6f-2500-4a76-9592-9e1240eb7321")]
+[assembly: NeutralResourcesLanguage("en-GB")]
 
 // Informacje o wersji zestawu zawierają następujące cztery wartości:
 //

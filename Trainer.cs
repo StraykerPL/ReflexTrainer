@@ -13,60 +13,66 @@ namespace Reflex_Trainer
 {
     public class Trainer
     {
-        private TimeSpan Najlepszy_czas;
-        private Color Kolor_planszy;
-        private Stopwatch Czasomierz;
-        private System.Timers.Timer Miernik_zmian_kolor;
-        private Random LosGen = new Random();
-        private PictureBox Pole;
+        private TimeSpan BestTime;
+        private Color AreaColor;
+        private Stopwatch Timekeeper;
+        private System.Timers.Timer ColorChangeTimekeeper;
+        private readonly Random RandGen = new Random();
+        private readonly PictureBox Area;
 
-        public Trainer(PictureBox pole_treningowe)
+        public Trainer(PictureBox Area)
         {
-            this.Pole = pole_treningowe;
+            this.Area = Area;
         }
 
-        public void Czerwona_plansza()
+        public void RedArea()
         {
-            Kolor_planszy = Color.Red;
-            Pole.BackColor = Kolor_planszy;
+            AreaColor = Color.Red;
+            Area.BackColor = AreaColor;
         }
 
-        public void Zielona_plansza()
+        public void GreenArea()
         {
-            Kolor_planszy = Color.Green;
-            Pole.BackColor = Kolor_planszy;
+            AreaColor = Color.Green;
+            Area.BackColor = AreaColor;
         }
 
-        public void Rozpocznij_odliczanie()
+        public void StartCounting()
         {
-            Czasomierz = new Stopwatch();
-            Miernik_zmian_kolor = new System.Timers.Timer();
-            Miernik_zmian_kolor.Interval = LosGen.Next(5000, 10000);
-            Miernik_zmian_kolor.Elapsed += new ElapsedEventHandler(TimerTick);
-            Czasomierz.Start();
-            Miernik_zmian_kolor.Enabled = true;
+            Timekeeper = new Stopwatch();
+            ColorChangeTimekeeper = new System.Timers.Timer();
+            ColorChangeTimekeeper.Interval = RandGen.Next(5000, 10000);
+            ColorChangeTimekeeper.Elapsed += new ElapsedEventHandler(TimerTick);
+            Timekeeper.Start();
+            ColorChangeTimekeeper.Enabled = true;
         }
 
-        public void Zakończ_odliczanie()
+        public void StopCounting()
         {
-            Czasomierz.Stop();
-            Miernik_zmian_kolor.Enabled = false;
+            Timekeeper.Stop();
+            ColorChangeTimekeeper.Enabled = false;
         }
 
-        public TimeSpan Jaki_najlepszy_czas()
+        public TimeSpan GetBestTime()
         {
-            Najlepszy_czas = Czasomierz.Elapsed;
-            return Najlepszy_czas;
+            BestTime = Timekeeper.Elapsed;
+            return BestTime;
         }
 
-        public Color Jaki_kolor_planszy()
+        public Color GetAreaColor()
         {
-            return Kolor_planszy;
+            return AreaColor;
         }
 
         private void TimerTick(object a, ElapsedEventArgs b)
         {
-            Zielona_plansza();
+            GreenArea();
+        }
+
+        public void ClearScore()
+        {
+            BestTime = new TimeSpan(0, 0, 0, 0, 0);
+            Timekeeper = new Stopwatch();
         }
     }
 }

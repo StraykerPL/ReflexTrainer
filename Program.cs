@@ -16,7 +16,7 @@ namespace Reflex_Trainer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new forma());
+            Application.Run(new Form());
         }
     }
 }
