@@ -5,3 +5,4 @@ H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex_Trainer.AboutAppWind
 H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex_Trainer.Properties.Resources.resources
 H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex Trainer.csproj.GenerateResource.cache
 H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex Trainer.exe
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Release\Reflex Trainer.csprojAssemblyReference.cache
