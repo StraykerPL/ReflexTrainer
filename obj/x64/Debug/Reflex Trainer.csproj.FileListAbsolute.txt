@@ -1,0 +1,10 @@
+H:\Daniel\Repozytoria\reflex_trainer\bin\x64\Debug\Reflex Trainer.exe.config
+H:\Daniel\Repozytoria\reflex_trainer\bin\x64\Debug\Reflex Trainer.exe
+H:\Daniel\Repozytoria\reflex_trainer\bin\x64\Debug\Reflex Trainer.pdb
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Debug\Reflex Trainer.csprojAssemblyReference.cache
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Debug\Reflex_Trainer.Form.resources
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Debug\Reflex_Trainer.AboutAppWindow.resources
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Debug\Reflex_Trainer.Properties.Resources.resources
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Debug\Reflex Trainer.csproj.GenerateResource.cache
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Debug\Reflex Trainer.exe
+H:\Daniel\Repozytoria\reflex_trainer\obj\x64\Debug\Reflex Trainer.pdb

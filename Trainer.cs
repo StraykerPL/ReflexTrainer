@@ -48,7 +48,6 @@ namespace Reflex_Trainer
             ColorChangeTimekeeper = new System.Timers.Timer();
             ColorChangeTimekeeper.Interval = RandGen.Next(5000, 10000);
             ColorChangeTimekeeper.Elapsed += new ElapsedEventHandler(TimerTick);
-            Timekeeper.Start();
             ColorChangeTimekeeper.Enabled = true;
         }
 
@@ -76,6 +75,7 @@ namespace Reflex_Trainer
         private void TimerTick(object a, ElapsedEventArgs b)
         {
             GreenArea();
+            Timekeeper.Start();
         }
 
         // Clears best score from app memory:

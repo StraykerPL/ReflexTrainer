@@ -41,7 +41,7 @@ namespace Reflex_Trainer
             try
             {
                 var save = new StreamWriter(folderBrowserDialog1.SelectedPath + "\\Score.txt");
-                save.WriteLine("Your score: {0}ms !", trainer.GetBestTime().Milliseconds);
+                save.WriteLine("Your score: {0}ms !", trainer.GetBestTime().TotalMilliseconds);
                 save.WriteLine("Score achieved in Reflex Trainer app!");
                 save.WriteLine("http://www.straykerpl.github.io");
                 save.Dispose();
@@ -95,7 +95,7 @@ namespace Reflex_Trainer
             { // Green color:
                 trainer.StopCounting();
                 var time = trainer.GetBestTime();
-                StatusLabel.Text = string.Concat("Your reaction time: " + time.Milliseconds + " ms!\nClick here to start again!");
+                StatusLabel.Text = "Your reaction time: " + time.TotalMilliseconds + " ms!\nClick here to start again!";
                 StatusPanel.Visible = true;
                 MenuControl(true);
             }
