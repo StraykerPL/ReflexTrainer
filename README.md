@@ -2,6 +2,10 @@
 
 Simple C# app to train point reflex!
 
+![rfxt1.png](https://github.com/StraykerPL/reflex_trainer/blob/master/rfxt1.PNG)
+
+![rfxt2.png](https://github.com/StraykerPL/reflex_trainer/blob/master/rfxt2.PNG)
+
 # Building
 
 To build app, you have to open it with MS Visual Studio. Project was written on .NET Framework v4.7.2, so you will need it to build app properly. You can use MonoDevelop or something similar to build app, but I didn't test it. Feel free to make research!
